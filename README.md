@@ -7,6 +7,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Results
 
 For deliverable one we have calculated the Accuracy score of the model, generated a confusion matrix and imbalanced classification report.
+https://github.com/chandni0683/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb
+
 
 After the data is resampled we use LogisticRegression classifier to make predictions and evaluate the model’s performance. We have calculated the accuracy score of the model, generated a confusion matrix, and then print out the imbalanced classification report.
 
